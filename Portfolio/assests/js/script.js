@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Full-Stack development", "Machine Learning", "Cloud Computing", "Tech Communities"],
+        strings: ["Web development", "Machine Learning", "Cloud Computing", "Tech Communities"],
         loop: true,
         typeSpeed: 50,
 		backSpeed: 25,
