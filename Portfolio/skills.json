@@ -57,7 +57,14 @@
 "name": "Django",
 "icon": "https://img.icons8.com/color/48/000000/django.png"
 }
-
+{
+"name": "Tableau",
+"icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+},
+{
+"name": "AWS (Amazon Web Services)",
+"icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+}
     {
         "name": "Flutter",
         "icon": "https://img.icons8.com/ios-filled/48/0080FF/flutter.png"
