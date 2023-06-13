@@ -45,26 +45,32 @@
         "name": "C Language",
         "icon": "https://img.icons8.com/color/48/000000/c.png"
     },
+    
     {
-"name": "Machine Learning",
-"icon": "https://img.icons8.com/color/48/000000/machine-learning.png"
-},
-{
-"name": "Data Analytics",
-"icon": "https://img.icons8.com/color/48/000000/data-analytics--v1.png"
-},
-{
-"name": "Django",
-"icon": "https://img.icons8.com/color/48/000000/django.png"
-}
-{
-"name": "Tableau",
-"icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
-},
-{
-"name": "AWS (Amazon Web Services)",
-"icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
-}
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/color/48/000000/machine-learning.png"
+    },
+    
+    {
+        "name": "Data Analytics",
+        "icon": "https://img.icons8.com/color/48/000000/data-analytics--v1.png"
+    },
+    
+    {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png"
+    },
+    
+    {
+        "name": "Tableau",
+        "icon": "https://img.icons8.com/color/48/000000/tableau-software.png"
+    },
+    
+    {
+        "name": "AWS (Amazon Web Services)",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    
     {
         "name": "Flutter",
         "icon": "https://img.icons8.com/ios-filled/48/0080FF/flutter.png"
